@@ -32,7 +32,7 @@ Before you begin, ensure you have met the following requirements:
 
     ```bash
     git clone https://github.com/Nickss5/Social-Media-Dashboard.git
-    cd social-media-dashboard
+    cd Social-Media-Dashboard
     ```
 
 2. **Install dependencies** using npm or yarn:
