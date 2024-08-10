@@ -2,7 +2,7 @@
 
 This is a simple social media dashboard application built with React. The app allows users to log in and view various statistics about users and posts, including total users, total posts, active users in the last 24 hours, and recent posts in the last 24 hours.
 
-Access it with https://mediaadmin.ccbp.tech/login
+Check it out here 👉 [https://mediaadmin.ccbp.tech/login](https://mediaadmin.ccbp.tech/login)
 
 ## Features
 
