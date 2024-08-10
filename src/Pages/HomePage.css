@@ -1,0 +1,118 @@
+.Home-container {
+  display: flex;
+}
+.HomePage-container {
+  display: flex;
+  margin-left: 70px;
+  flex-direction: column;
+  margin-top: 30px;
+}
+.Homepage1 {
+  display: flex;
+}
+.total-users-container {
+  width: 400px;
+  height: 200px;
+  background-color: #ffdbd1;
+  margin-right: 30px;
+  border-radius: 15px;
+  box-shadow: 0px 8px 40px rgba(7, 7, 7, 0.08);
+}
+
+.total-posts-container {
+  width: 400px;
+  height: 200px;
+  background-color: #fef5d3;
+  border-radius: 15px;
+  box-shadow: 0px 8px 40px rgba(7, 7, 7, 0.08);
+}
+
+@media screen and (max-width: 768px) {
+  .Homepage1 {
+    display: flex;
+    flex-direction: column;
+  }
+  .total-posts-container {
+    margin-top: 20px;
+  }
+}
+.active-users {
+  width: 400px;
+  height: 200px;
+  background-color: #c4e9e6;
+  margin-right: 30px;
+  margin-top: 20px;
+  border-radius: 15px;
+  box-shadow: 0px 8px 40px rgba(7, 7, 7, 0.08);
+}
+
+.active-posts {
+  width: 400px;
+  height: 200px;
+  background-color: #d4dfd1;
+  margin-top: 20px;
+  border-radius: 15px;
+  box-shadow: 0px 8px 40px rgba(7, 7, 7, 0.08);
+}
+.home-head {
+  padding-left: 30px;
+  font-family: 'Roboto';
+  color: #605e62;
+}
+.head2 {
+  padding-left: 30px;
+  font-family: 'Roboto';
+  margin-top: 0px;
+}
+.class-1 {
+  display: flex;
+  justify-content: space-between;
+}
+.graph-image1 {
+  width: 30px;
+  height: 30px;
+  padding-right: 40px;
+  color: red;
+}
+.home-para {
+  padding-left: 30px;
+  font-family: 'Roboto';
+  color: #605e62;
+}
+.graph-image2 {
+  width: 30px;
+  height: 30px;
+  padding-right: 40px;
+  color: #d2b486;
+}
+.graph-image3 {
+  width: 30px;
+  height: 30px;
+  padding-right: 40px;
+  color: #5f84a2;
+}
+.graph-image4 {
+  width: 30px;
+  height: 30px;
+  padding-right: 40px;
+  color: #979797;
+}
+.percent {
+  background-color: #ffffff;
+  border-radius: 5px;
+  width: 60px;
+  height: 20px;
+  margin-left: 10px;
+  text-align: center;
+}
+.percent1 {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.color1 {
+  color: green;
+}
+.color2 {
+  color: red;
+}
