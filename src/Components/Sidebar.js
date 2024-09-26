@@ -67,9 +67,9 @@ function Sidebar() {
           className="profile-image"
         />
         {/* Display profile name */}
-        <h2 className="profile-head">xxxxxxx</h2>
+        <h2 className="profile-head">Nishma Medagoni</h2>
         {/* Display profile role or description */}
-        <p className="profile-para">yyyyy</p>
+        <p className="profile-para">B181220</p>
       </div>
     </div>
   )
